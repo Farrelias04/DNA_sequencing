@@ -1,4 +1,4 @@
-# DNA_sequencing
+# dna_sequencing
 Allow users to use a list of functions that assist with DNA processing
 # What I Learned
 * Function Composition
